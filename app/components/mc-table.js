@@ -1,0 +1,1 @@
+export { default } from 'mickey-addon/components/mc-table';
